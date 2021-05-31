@@ -7,6 +7,7 @@
  This software is released under the MIT SUSHI-WARE License.
 */
 
+import React from 'react';
 import ReactDOM from 'react-dom';
 import { BrowserRouter, Route } from 'react-router-dom';
 import './styles/main.scss';
